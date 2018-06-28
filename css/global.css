@@ -1,0 +1,21 @@
+
+body {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: black;
+    background-color: #eacbcb;    
+}
+
+.navbar-default {
+    background-color: #000;
+    border-color: #000;
+    border-radius: 0px
+}
+
+ .navbar-default .navbar-brand{
+ 	color: white;
+ }  
+
+
+
